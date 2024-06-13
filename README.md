@@ -73,7 +73,7 @@ Rodar o servidor de desenvolvimento:
 
 	python manage.py runserver
 
-# A API estará disponível em: http://127.0.0.1:8000
+A API estará disponível em: http://127.0.0.1:8000, mas você só poderá utilizar usando os endpoints abaixo.
 
 # EndPoints da API:
 
