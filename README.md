@@ -28,7 +28,7 @@ Esta é uma API de Lista de Tarefas construída com Django e Django REST framewo
 
   Clonar o repositório: 
 
-    git clone https://github.com/
+    git clone https://github.com/](https://github.com/FeliipeCampos/Todo_Project
 
     cd todo_project
 
