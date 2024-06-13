@@ -49,7 +49,7 @@ Instalar dependências:
 
 Aquivo .env:
 
-No diretório "todo_project", Crie um arquivo chamado ".env", que você pode usar para alterar as variáveis de ambiente, nele cole os seguintes dados:
+No diretório "todo_project" que fica dentro do diretório principal, Crie um arquivo chamado ".env", que você pode usar para alterar as variáveis de ambiente, nele cole os seguintes dados:
 	
 	DEBUG=True
 	SECRET_KEY=!-d23yku04yn$q2krxjne4%r61fdt09f@*95q%mas4mv1^(z@!
