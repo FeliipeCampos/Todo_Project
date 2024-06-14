@@ -124,7 +124,7 @@ PATCH:
  
 # Métricas:
 
-Para acessar as métricas, use o navegador ou um GET para: 
+Para acessar as métricas, use um GET para: 
  
 	http://127.0.0.1:8000/metrics.
 
